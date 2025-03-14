@@ -1,4 +1,4 @@
-# Stochastic Optimization: Fundamentals & Real-World Applications 🌍🔍
+# Stochastic Optimization: Fundamentals & Real-World Applications 🌍
 
 ## Overview  
 This project explores **fundamental stochastic processes** to efficiently locate **global maxima**, enabling robust **real-world optimization**. By leveraging randomness, we enhance problem-solving in dynamic and uncertain environments.  
