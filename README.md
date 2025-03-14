@@ -6,4 +6,4 @@ This project explores **fundamental stochastic processes** to efficiently locate
 ## Key Concepts  
 - **Stochastic Processes**: Leveraging probabilistic models for decision-making.  
 - **Global Optimization**: Avoiding local traps to find the best possible solutions.  
-- **Real-World Applications**: Applying these methods to logistics, finance, AI, and more. 
+- **Real-World Applications**: Applying these methods to real-world scenarios. 
