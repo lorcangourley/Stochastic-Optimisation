@@ -31,10 +31,10 @@ This project was completed as part of a university assignment on optimization. T
 ## How It Works
 
 1. **Data Fetching**  
-   Downloads stock price data between specific dates for over 100 well-known tickers.
+   Downloads stock price data between specific dates for over 100 tickers.
 
 2. **Metric Calculation**  
-   Calculates expected return and risk using log returns over a 30-day (1.5-month) period.
+   Calculates expected return and risk using log returns over a 30 working day day (1.5-month) period.
 
 3. **Dynamic Programming Optimization**  
    Builds a DP table to find the optimal subset of stocks that fit within the max risk threshold.
